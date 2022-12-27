@@ -1,0 +1,4 @@
+1. Assign a USB printer to LPT port
+https://supportcommunity.zebra.com/s/article/How-to-Assign-USB-Printers-to-LPT-Ports?language=en_US
+
+2. In command line: PDFtoPrinter.exe filename.pdf "\\SERVER\PrinterName"
